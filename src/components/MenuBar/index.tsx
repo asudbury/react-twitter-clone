@@ -69,14 +69,14 @@ const MenuBar: React.FC = () => {
       <Botside>
         <Avatar>
           <img
-            src="https://avatars1.githubusercontent.com/u/53025782?s=400&u=f1ffa8eaccb8545222b7c642532161f11e74a03d&v=4"
-            alt="Elton Lazzarin"
+            src="https://avatars.githubusercontent.com/u/3384470?v=4"
+            alt="Adrian Sudbury"
           />
         </Avatar>
 
         <ProfileData>
-          <strong>Elton Lazzarin</strong>
-          <span>@elton_lazzarin</span>
+          <strong>Adrian Sudbury</strong>
+          <span>asudbury</span>
         </ProfileData>
 
         <ExitIcon />
