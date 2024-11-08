@@ -1,19 +1,10 @@
 {
   "files": {
-    "main.js": "/react-twitter-clone/static/js/main.ea201885.chunk.js",
-    "main.js.map": "/react-twitter-clone/static/js/main.ea201885.chunk.js.map",
-    "runtime-main.js": "/react-twitter-clone/static/js/runtime-main.8e2047ae.js",
-    "runtime-main.js.map": "/react-twitter-clone/static/js/runtime-main.8e2047ae.js.map",
-    "static/js/2.92fff3cf.chunk.js": "/react-twitter-clone/static/js/2.92fff3cf.chunk.js",
-    "static/js/2.92fff3cf.chunk.js.map": "/react-twitter-clone/static/js/2.92fff3cf.chunk.js.map",
+    "main.js": "/react-twitter-clone/static/js/main.ee2c32d2.js",
     "index.html": "/react-twitter-clone/index.html",
-    "precache-manifest.a3b0f4dc4e8eb550439c3065842ffa06.js": "/react-twitter-clone/precache-manifest.a3b0f4dc4e8eb550439c3065842ffa06.js",
-    "service-worker.js": "/react-twitter-clone/service-worker.js",
-    "static/js/2.92fff3cf.chunk.js.LICENSE.txt": "/react-twitter-clone/static/js/2.92fff3cf.chunk.js.LICENSE.txt"
+    "main.ee2c32d2.js.map": "/react-twitter-clone/static/js/main.ee2c32d2.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8e2047ae.js",
-    "static/js/2.92fff3cf.chunk.js",
-    "static/js/main.ea201885.chunk.js"
+    "static/js/main.ee2c32d2.js"
   ]
 }
